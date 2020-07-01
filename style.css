@@ -1,0 +1,104 @@
+body{
+    margin: 0px;
+    font-family: 'Titillium Web', sans-serif;  
+}
+
+.header-bg{
+    background-image: url("images/header-bg.png") ;
+    background-repeat: no-repeat;
+    background-size: 1700px 700px;
+}
+
+.info-div{
+    width: 40%;
+    padding-top: 10px;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+#texts{
+    margin-left: 150px;
+    padding-top: 130px;
+}
+
+h1.intro{
+    font-size: 50px;
+    line-height: .5;
+}
+
+.info-div img{
+    width: 90%;
+    /* height: auto;  */
+     margin-top: 30px;
+}
+
+.link-button{
+    margin-top: 50px;
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #ff4d94, #ff80b3) ;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+
+}
+
+.btn{
+    margin-top: 50px;
+}
+
+.link-button:hover{
+    background-image: linear-gradient(45deg, rgb(47, 112, 165), rgb(235, 220, 19)) ;
+} 
+
+.name-highlight{
+    color:#ff4d94;
+}
+
+.name-highlight:hover{
+    font-size: 400%;
+    color:  #ff3385;
+}
+
+.intro-para{
+    padding-top: 15px;
+    font-size: 20px;
+}
+
+section{
+    height: 600px;
+    padding-bottom: 90px;
+}
+
+
+
+.biography{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: 1700px 700px;
+}
+
+.bio img{
+    width: 80%;
+    /* height: auto;  */
+     margin-top: 30px;
+}
+
+.bio{
+    width: 40%;
+    padding-top: 30px;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+#scnd{
+    margin-top: 100px;
+    padding : 60px;
+}
+
+h2.bio-text{
+    font-size: 25px;
+    line-height: 1;
+}
