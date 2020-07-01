@@ -102,3 +102,123 @@ h2.bio-text{
     font-size: 25px;
     line-height: 1;
 }
+
+
+.latest-work{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: 1700px 700px;
+}
+
+.ltst-wrk-img img{
+    width: 30%;
+    float: left;
+    padding-right: .8%;
+    padding-left: .8%;
+}
+
+.img-allign{
+    padding-top: 50px;
+    margin-left: 4.4%;
+}
+
+h2.ltst-wrk-txt{
+    font-size: 30px;
+    text-align: center;
+}
+
+.ltst-wrk-sub-div{
+    padding-top: 50px;
+}
+
+
+
+.clients-remarks{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: 1700px 700px;
+}
+
+.clnts{
+    text-align: center;
+}
+
+.cntct-link-button{
+    text-decoration:none;
+    background-image: linear-gradient(20deg,hotpink,deeppink);
+    padding:10px 20px;
+    border-radius:10px;
+    color:white;
+    font-weight:500;
+    margin-top:5%;
+    display:block;
+}
+
+/* cntct-link-button{
+    color: white;
+    text-decoration: none;
+} */
+
+.cntct-btn{
+    width:50%;
+    margin:auto;
+}
+
+.clnt-info-1{
+    font-size: 20px;
+    line-height: .5;
+}
+
+.clnt-info{
+    padding-bottom: 5px;
+    padding-top: 15px;
+    font-weight: lighter;
+    
+}
+
+.what-says{
+    padding-bottom: 20px;
+    color: gray;
+}
+
+.ftr{
+    text-align: center;
+    color: gray;
+    font-weight: lighter;
+    padding-bottom: 30px;
+}
+
+.social{
+    margin-left: 90%;
+    padding-top:10px;
+    text-align: center;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 50px;
+    width: 25px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 5px;
+    border-radius:20px;
+  }
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-github {
+  background: #616364;
+  color: black;
+}
